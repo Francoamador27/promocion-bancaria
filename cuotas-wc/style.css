@@ -1,0 +1,39 @@
+section.show-page {
+    display: flex;
+    justify-content: flex-start;
+    gap: 22px;
+}
+form {
+    margin: 10px;
+}
+
+section.forms-cuotas {
+    display: block;
+    margin: 8px;
+}
+section.forms-cuotas form{
+    margin: 10px;
+}
+input#img_cuotas {
+    width: 179px;
+}
+.img-log-cuotas {
+    width: 24px;
+    height: 24px;
+}
+.img-log-cuotas img{
+    width: 100%
+}
+img.img-cuot {
+    width: 100%;
+}
+section.formularios {
+    display: flex;
+    flex-wrap: wrap;
+}
+.forms-cuotas-banc {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    width: 352px;
+}
